@@ -10,9 +10,9 @@ public class StringPalindrome {
 				flag=false;
 				break;
 			}
-		}if(flag){System.out.println("Plaindrome");}
+		}
+		if(flag){System.out.println("Plaindrome");}
 		else{System.out.println("Not a Plaindrome");}
-
 	}
 
 }

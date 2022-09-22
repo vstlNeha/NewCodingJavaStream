@@ -10,17 +10,12 @@ public class FibonacciSeriesWithRecurssion {
 			n2=n3;
 			printFiboSeries(count-1);
 		}
-		
 	}
 	
-
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		int count=10;
 		System.out.println(n1+ " " +n2);
 		printFiboSeries(count-2);
-	
-		
-
 	}
 
 }

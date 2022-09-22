@@ -7,12 +7,9 @@ public class CountChar {
 		int count=0;
 		for(int i=0;i<name.length();i++){
 			if(name.charAt(i)!=' '){
-		
-			count++; }
+				count++; 
+			}
 		}
 		System.out.println(count);
-		
-
 	}
-
 }

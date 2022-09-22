@@ -19,12 +19,9 @@ public class PrimeNumber {
 				}
 			}if(flag==0){
 				System.out.println(n+ "is  a prime number");
+				}
+			}
 		}
-			
-		}
-			
-		}
-
-	}
+}
 
 

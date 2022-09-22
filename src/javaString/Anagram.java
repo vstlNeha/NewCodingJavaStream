@@ -24,7 +24,5 @@ public class Anagram {
 				System.out.println("Both String are anagram");
 			}
 		}
- 
-	}
-
+ 	}
 }

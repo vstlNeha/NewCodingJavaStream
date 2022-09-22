@@ -6,7 +6,5 @@ public class ReplaceSpacesWithChar {
 		String str= "Once in a blue moon";
 		str= str.replace(" ", "-");
 		System.out.println(str);
-
-	}
-
+		}
 }

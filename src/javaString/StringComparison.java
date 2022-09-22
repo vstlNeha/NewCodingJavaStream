@@ -14,12 +14,6 @@ public class StringComparison {
 		
 		//By compareTo() method
 		System.out.println(name1.compareTo(name2));
-		
-		
-		
-		
-		
-
-	}
+		}
 
 }

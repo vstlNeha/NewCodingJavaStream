@@ -11,8 +11,6 @@ public class StringUpperCaseLowercase {
 		System.out.println(name1.startsWith(" ")); //startWith
 		System.out.println(name1.startsWith(" ")); //endWith
 		System.out.println(name1.length());//length
-		
-
 	}
 
 }

@@ -14,11 +14,6 @@ public class ConvLCtoUCandUCtoLC {
 			newStr.setCharAt(i, Character.toLowerCase(str.charAt(i)));
 		}}
 		
-		System.out.println(newStr);
-		
-		
-				
-
+			System.out.println(newStr);
 	}
-
 }

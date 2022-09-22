@@ -7,8 +7,5 @@ public class Substring {
 		String name2="hsnsg";
 		
 		System.out.println(name1.substring(4));
-		
-
-	}
-
+		}
 }

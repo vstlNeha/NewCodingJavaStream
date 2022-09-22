@@ -16,10 +16,6 @@ public class DivStringInNEqualParts {
 				String part=str.substring(i,i+chars);
 				System.out.println(part);
 			}
-			
 		}
-		
-
 	}
-
 }
